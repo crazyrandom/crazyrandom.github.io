@@ -1,0 +1,50 @@
+= BIG dataVists::Summer 2015.1
+
+:published_at: 2015-05-04
+:hp-tags: big data, lecture, preparation
+
+
+Dear BIG-data-vists:
+
+To be **prepare**d for our first session you shall, firstly, 
+become more familiar with some (professional) networks and
+the way different industries and reseachers talk about the 
+vauge concept of _big data_ and their needs. In other words,
+we start understanding the various concept**s** out there by
+studing them. This is called the paradigmatic way of empirical 
+(social) reserach. Stated simpler, we are looking for examples
+out there.
+
+== Step1: [mandatory]
+Become a memeber of the LINKED-IN familiy. To join them,
+please, follow the instructions on link:https://www.linkedin.com/[https://www.linkedin.com].
+
+== Step2: [optional]
+You are welcome to get there in touch with me. 
+
+== Step3: [mandatory]
+Become a member of the following linked-in groups:
+
+== Step4: [mandatory]
+Study carefully the following job posting:
+
+_"
+Zur Unterstützung unseres Teams Interaktive Produktvisualisierung und -absicherung suchen wir einen Berater für die 3D Visualisierung von Fahrzeugen.
+Zu Ihren Aufgaben gehören:
+Die operative Anwendung von DMU-Datenmanagementprozessen und Einsatz von Virtual Realitiy-Technologien
+Koordination und Durchführung von Virtual Realitiy-Untersuchungen in Fahrzeugprojekten (Produktvisualisierung, Baubarkeit, Packaging, Reparatursimulation)
+Vor- und Nachbereitung von DMU- und VR Workshops
+Verarbeitung und insbesondere Aufbereitung vorhandener CAD-Daten, Berechnungs- und Versuchsergebnisse sowie aller verknüpften Metadaten (e.g. Arbeits- und Montagevorschriften) in und für 3D-Tools (PLM Siemens Viewer, DeltaGen, Showcase, Maya, veo, usw.).
+Begleitung und Beratung von Anwendern bei der Erstellung von Anwendungsszenarien und Präsentationen
+Entwurf von graphischen 3D-Umsetzungsalternativen
+Modellierung und Animation von 3D-Assets (texturierte 3D-Modelle, 2D Texturen, Shaderparameter für deren Darstellung) in den gängigen Tools
+Erstellung von vorberechneten Lichtsituationen für die Beleuchtung der Szene und abspeichern dieser Beleuchtungssituation in vorgerenderten Texturen
+Dokumentation der Projektergebnisse für den Kunden
+Analyse und methodische Weiterentwicklung im Fahrzeugvisualisierungsprozess (Design, Entwicklung, Produktion).
+"_
+
+**(Source: link:http://jobs.jobware.net/Job/Mitarbeiter-in-der-Beratung-m-w-High-End-Visualisierung-Digitale-Fahrzeugabsicherung.17134531.html?jw_chl_seg=IT-NEWS-TOPJOBS-O2N&skin=default[http://jobs.jobware.net/Job/Mitarbeiter-in-der-Beratung-m-w-High-End-Visualisierung-Digitale-Fahrzeugabsicherung.17134531.html?jw_chl_seg=IT-NEWS-TOPJOBS-O2N&skin=default] visited: 2015-3-5.)**
+
+ 
+ == Step5: [mandatory]
+ 

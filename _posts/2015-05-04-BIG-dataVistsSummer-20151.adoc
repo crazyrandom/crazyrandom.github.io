@@ -15,6 +15,9 @@ studing them. This is called the paradigmatic way of empirical
 (social) reserach. Stated simpler, we are looking for examples
 out there.
 
+
+WARNING: *Exercises follow in the class*
+
 == Step1: [mandatory]
 Become a memeber of the LINKED-IN familiy. To join them,
 please, follow the instructions on link:https://www.linkedin.com/[https://www.linkedin.com].
@@ -45,6 +48,7 @@ Analyse und methodische Weiterentwicklung im Fahrzeugvisualisierungsprozess (Des
 
 **(Source: link:http://jobs.jobware.net/Job/Mitarbeiter-in-der-Beratung-m-w-High-End-Visualisierung-Digitale-Fahrzeugabsicherung.17134531.html?jw_chl_seg=IT-NEWS-TOPJOBS-O2N&skin=default[http://jobs.jobware.net/Job/Mitarbeiter-in-der-Beratung-m-w-High-End-Visualisierung-Digitale-Fahrzeugabsicherung.17134531.html?jw_chl_seg=IT-NEWS-TOPJOBS-O2N&skin=default] visited: 2015-3-5.)**
 
- 
- == Step5: [mandatory]
+
+== Step5: [mandatory]
+ ddd
  

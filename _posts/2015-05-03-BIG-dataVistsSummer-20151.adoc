@@ -1,11 +1,28 @@
 = BIG dataVists::Summer 2015.1
 
 :published_at: 2015-05-03
-:hp-tags: big data, lecture
+:hp-tags: big data, lecture, preparation
 
 
-Dear BIG-data-surfers:
+Dear BIG-data-vists:
 
+To be **prepare**d for our first sessions you shall, firstly, 
+become more familiar with some (professional) networks and
+the way different industries and reseachers talk about the 
+vauge concept of _big data_ and their needs. In other words,
+we start understanding the various concept**s** out there by
+studing them. This is called the paradigmatic way of empirical 
+(social) reserach. Stated simpler, we are looking for examples
+out there.
 
+== Step1:
+Become a memeber of the LINKED-IN familiy. To join them,
+please, follow the instructions on link:https://www.linkedin.com/[https://www.linkedin.com].
+
+== Step2: [optional]
+You are welcome to get there in touch with me. 
+
+== Step3: [mandatory]
+Become a member of the following linked-in groups:
 
 

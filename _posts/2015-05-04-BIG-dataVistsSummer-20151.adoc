@@ -50,5 +50,10 @@ Analyse und methodische Weiterentwicklung im Fahrzeugvisualisierungsprozess (Des
 
 
 == Step5: [mandatory]
- ddd
- 
+link:http://www.networkworld.com/article/2908654/data-center/ibm-fujifilm-show-tape-storage-still-has-a-long-future.html[http://www.networkworld.com/article/2908654/data-center/ibm-fujifilm-show-tape-storage-still-has-a-long-future.html] (visited: 2015-3-5) talks about a kind of technology. What is it and what is _new_  or hot there?
+
+== Step6: [mandatory]
+Go through the interview on link:http://www.zeit.de/digital/internet/2015-03/stephen-wolfram-quantified-self-interview[DIE ZEIT]. (visited: 2015-3-5)
+
+== Step7: [mandatory]
+Compare the interview from Step6 with link:http://www.handelsblatt.com/technik/vernetzt/big-data-in-unternehmen-wenn-die-firma-vor-ihnen-weiss-wann-sie-kuendigen/11660026.html[this one on HANDELSBLATT]. (visited: 2015-3-5)

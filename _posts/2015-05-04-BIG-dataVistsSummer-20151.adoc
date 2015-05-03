@@ -57,3 +57,8 @@ Go through the interview on link:http://www.zeit.de/digital/internet/2015-03/ste
 
 == Step7: [mandatory]
 Compare the interview from Step6 with link:http://www.handelsblatt.com/technik/vernetzt/big-data-in-unternehmen-wenn-die-firma-vor-ihnen-weiss-wann-sie-kuendigen/11660026.html[this one on HANDELSBLATT]. (visited: 2015-3-5)
+
+== Step8: [mandatory]
+Be sure that you have a running and rich python environment given a cosy home
+on your machine. In case you are in need of a python development environment you can check out ENTHOUGHT's canopy for free plan by following this link link:https://www.enthought.com/products/canopy/[https://www.enthought.com/products/canopy/]. And play a bit around with it to get more familar with your new tool.
+

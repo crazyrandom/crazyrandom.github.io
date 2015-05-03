@@ -15,7 +15,7 @@ studing them. This is called the paradigmatic way of empirical
 (social) reserach. Stated simpler, we are looking for examples
 out there.
 
-== Step1:
+== Step1: [mandatory]
 Become a memeber of the LINKED-IN familiy. To join them,
 please, follow the instructions on link:https://www.linkedin.com/[https://www.linkedin.com].
 

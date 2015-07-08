@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "crazyrandom",
-    "repositoryName": "crazyrandom.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"crazyrandom","repositoryName":"crazyrandom.github.io","branch":"master"},"site":{"title":"Crazy Random ","description":"Just some random thoughts about craziness and data, MCNS and random.","url":"https://crazyrandom.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"//crazyrandom.github.io/themes/Casper"}}
